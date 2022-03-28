@@ -13,3 +13,6 @@ Es impresionante conocer cómo actúa esta plataforma internamente, los ingenier
 
 <h2>Conclusión</h2>
 Podemos decir que manejar tanta información es algo complicado para las empresas si no cuentan con la tecnología necesaria, en este caso Hadoop que permite tener un mejor control de esta información que es almacenada a volúmenes, como lo expuso la trabajadora, la empresa almacena grandes cantidades de información lo que no pueden evitar es el almacenamiento de información mala por ello lo que hacen es pasar por varios filtros para poder mostrar información a los usuarios. Cabe mencionar que para almacenar tanta información se requiere de buena tecnología y sobre todo tiempo para estar revisando la información que es almacenada.
+
+
+<h3>Martin Hernández Encarnación</h3>
